@@ -1,0 +1,2 @@
+# ConsoleMenuSnippet
+Console Menu Template
